@@ -1,0 +1,25 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.word-input {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.word-input:hover {
+    background-color: yellow;
+}
+
+.word-button {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+.word-button:hover {
+    background-color: yellow;
+}

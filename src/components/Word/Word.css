@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+.main {
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    border: 2px solid black;
+    padding: 10px;
+    width: fit-content;
+    height: 600px;
+    overflow-y: scroll;
+    overflow-x:hidden ;
+}
+
+.highlight {
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 2px;
+    font-size: 1.1rem;
+
+}
